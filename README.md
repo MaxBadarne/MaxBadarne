@@ -8,7 +8,7 @@ Cyber Security / Penetration Tester | Tryhackme top 2%
 ## Socials
 
 
-[![Tryhackme Icon.](https://icon-icons.com/downloadimage.php?id=249349&root=3915/PNG/96/&file=tryhackme_logo_icon_249349.png)](https://tryhackme.com/p/captainMax)#
+[![Tryhackme Icon.](https://icon-icons.com/downloadimage.php?id=249349&root=3915/PNG/96/&file=tryhackme_logo_icon_249349.png)](https://tryhackme.com/p/captainMax)
 &emsp; 
 [![GithubIcon.](https://github.com/MaxBadarne/MaxBadarne/blob/main/Icons/icons8-github-100.png)](https://github.com/MaxBadarne)
 &emsp; 
