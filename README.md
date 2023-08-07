@@ -10,22 +10,29 @@ Cyber Security / Penetration Tester | Tryhackme top 2%
   
 &emsp;&emsp; &emsp; <img src="https://github.com/MaxBadarne/MaxBadarne/blob/main/Icons/captainMax.png" alt="TryHackMe">
 - Doing An Ethical hacking/ Cyber Security Course at [HackerU](https://www.hackeru.co.il/)
+ <div align="left">
+   <img src = "https://img.shields.io/badge/Advanced Infrastructure Attacks-8A2BE2">
+   <img src = "https://img.shields.io/badge/Python Programming Essentials-8A2BE2">
+   <img src = "https://img.shields.io/badge/Python Programming for Security-8A2BE2">
+   </div>  
+<div align="left">
+<img src = "https://img.shields.io/badge/Web%20Application-8A2BE2">
+<img src = "https://img.shields.io/badge/Windows%20Server%202016-8A2BE2">
+<img src = "https://img.shields.io/badge/Linux%20Fundamentals-8A2BE2">
+<img src = "https://img.shields.io/badge/Cisco Introduction to Networking-8A2BE2">
+  </div>     
+   <div align="left">
+   <img src = "https://img.shields.io/badge/Web Application Penetration Testing-8A2BE2">
+   <img src = "https://img.shields.io/badge/Mobile Penetration Testing-8A2BE2">
+   <img src = "https://img.shields.io/badge/TDX Arena Practical Exam-8A2BE2">
+</div>     
+  <div align="left">
+   <img src = "https://img.shields.io/badge/Cyber Infrastructure-8A2BE2">
+   <img src = "https://img.shields.io/badge/SOC_SIEM-8A2BE2">
+   <img src = "https://img.shields.io/badge/Cross Platform Elevation of Privileges-8A2BE2">
+   </div>
 
-Application Web 
-2016 Server Windows 
-Fundamentals Linux 
-Networking to Introduction - Cisco 
-Infrastructure Cyber 
-Analysis Malware to Introduction & SOC-SIEM 
-Privileges of Elevation Platform-Cross 
-Attacks Infrastructure Advanced 
-Essentials Programming Python
-Security for Programming Python 
-Testing Penetration Application Web 
-Testing Penetration Mobile 
-Exam Practical Arena-TDX 
-
-[[Full Syllabus]](https://drive.google.com/file/d/1-rLELLbkqYddhhVNebJFyVSuuZgkApOl/view?usp=sharing)
+[Full Syllabus](https://drive.google.com/file/d/1-rLELLbkqYddhhVNebJFyVSuuZgkApOl/view?usp=sharing)
 - participating in CTF Tournaments 
 
 ### Application Knowledge
