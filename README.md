@@ -4,14 +4,13 @@
 ## Max Badarne
 Cyber Security / Penetration Tester | Tryhackme top 2%
 
-Currently :-
+**Currently :-**
 - Doing An Ethical hacking/ Cyber Security Course at [HackerU](https://www.hackeru.co.il/) [ [Syllabus] ](https://drive.google.com/file/d/1-rLELLbkqYddhhVNebJFyVSuuZgkApOl/view?usp=sharing)
 - Solving Tryhackme Challenges
   
 &emsp;&emsp; &emsp; <img src="https://github.com/MaxBadarne/MaxBadarne/blob/main/Icons/captainMax.png" alt="TryHackMe">
 - participating in CTF Tournaments 
 
-<br/><br/>
 ### Application Knowledge
 <div align="left">
 <img src = "https://img.shields.io/badge/shell_script-000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=green1" >
@@ -37,7 +36,6 @@ Currently :-
 <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic' />
 <img alt='Windows' src='https://img.shields.io/badge/-Windows-0D1117?style=flat&logo=windows&labelColor=0D1117' />
  </div>
-<br/><br/>
 
 ## Social Media
 [![GithubIcon.](https://github.com/MaxBadarne/MaxBadarne/blob/main/Icons/icons8-github-100.png)](https://github.com/MaxBadarne)
