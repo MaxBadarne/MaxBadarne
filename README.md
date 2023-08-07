@@ -1,14 +1,19 @@
-### Hi there 👋
-Max Badarne
-Cyber Security / Penetration Tester | Tryhackme top 2%
-[Personal Website](https:maxbd.de)
-[LinkedIn Prodile](www.linkedin.com/in/max-badarne-232081194/)
+# Hello!
+<div align="left">You are the <img src="https://profile-counter.glitch.me/MaxBadarne/count.svg">th visitor.</div>
+<br/><br/> 
 
-- Currently Doing An Ethical hacking/ Cyber Security Course at [HackerU](https://www.hackeru.co.il/), [Syllabus]([https://www.hackeru.co.il/](https://drive.google.com/file/d/1-rLELLbkqYddhhVNebJFyVSuuZgkApOl/view?usp=sharing)) 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Max Badarne
+Cyber Security / Penetration Tester | Tryhackme top 2%
+
+<br/><br/>
+[Personal Website](https://maxbd.de/)
+![LinkedInIcon.]()
+[LinkedIn Prodile](https://www.linkedin.com/in/max-badarne-232081194/)
+
+<br/><br/>
+
+
+- Currently Doing An Ethical hacking/ Cyber Security Course at [HackerU](https://www.hackeru.co.il/), [Syllabus](https://drive.google.com/file/d/1-rLELLbkqYddhhVNebJFyVSuuZgkApOl/view?usp=sharing)
+
+
 
