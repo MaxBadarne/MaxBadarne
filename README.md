@@ -3,6 +3,15 @@
 
 ## Max Badarne
 Cyber Security / Penetration Tester | Tryhackme top 2%
+<br/><br/>
+<img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
+<img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic' />
+<img alt='CSS3' src='https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic' />
+<img alt='Git' src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic' />
+<img alt='GitHub' src='https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white&style=plastic' />
+<img alt='Slack' src='https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white&style=plastic' />
+<img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic' />
+<img alt='Windows' src='https://img.shields.io/badge/-Windows-0D1117?style=flat&logo=windows&labelColor=0D1117' />
 
 <br/><br/>
 ## Socials
