@@ -5,7 +5,7 @@
 Cyber Security / Penetration Tester | Tryhackme top 2%
 
 <br/><br/>
-[Personal Website](https://maxbd.de/)
+## [www.maxbd.de](https://maxbd.de/)
 
 
 [![Tryhackme Icon.](https://icon-icons.com/downloadimage.php?id=249349&root=3915/PNG/96/&file=tryhackme_logo_icon_249349.png)](https://tryhackme.com/p/captainMax)
@@ -15,6 +15,7 @@ Cyber Security / Penetration Tester | Tryhackme top 2%
 
 
 - Currently Doing An Ethical hacking/ Cyber Security Course at [HackerU](https://www.hackeru.co.il/), [Syllabus](https://drive.google.com/file/d/1-rLELLbkqYddhhVNebJFyVSuuZgkApOl/view?usp=sharing)
+- Currently Solving Tryhackme Challenges
 
 
 
