@@ -1,14 +1,31 @@
-# Hello!
+# Hello There!
 <div align="left">You are the <img src="https://profile-counter.glitch.me/MaxBadarne/count.svg">th visitor.</div>
-
+ 
 ## Max Badarne
 Cyber Security / Penetration Tester | Tryhackme top 2%
 
 **Currently :-**
-- Doing An Ethical hacking/ Cyber Security Course at [HackerU](https://www.hackeru.co.il/) [ [Syllabus] ](https://drive.google.com/file/d/1-rLELLbkqYddhhVNebJFyVSuuZgkApOl/view?usp=sharing)
+
 - Solving Tryhackme Challenges
   
 &emsp;&emsp; &emsp; <img src="https://github.com/MaxBadarne/MaxBadarne/blob/main/Icons/captainMax.png" alt="TryHackMe">
+- Doing An Ethical hacking/ Cyber Security Course at [HackerU](https://www.hackeru.co.il/)
+
+Application Web 
+2016 Server Windows 
+Fundamentals Linux 
+Networking to Introduction - Cisco 
+Infrastructure Cyber 
+Analysis Malware to Introduction & SOC-SIEM 
+Privileges of Elevation Platform-Cross 
+Attacks Infrastructure Advanced 
+Essentials Programming Python
+Security for Programming Python 
+Testing Penetration Application Web 
+Testing Penetration Mobile 
+Exam Practical Arena-TDX 
+
+[[Full Syllabus]](https://drive.google.com/file/d/1-rLELLbkqYddhhVNebJFyVSuuZgkApOl/view?usp=sharing)
 - participating in CTF Tournaments 
 
 ### Application Knowledge
