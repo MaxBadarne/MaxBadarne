@@ -10,6 +10,8 @@ Cyber Security / Penetration Tester | Tryhackme top 2%
 
 
 &emsp;&emsp; &emsp; &emsp; &emsp; <img src="https://github.com/MaxBadarne/MaxBadarne/blob/main/Icons/captainMax.png" alt="TryHackMe">
+<br/><br/>
+### Application Knowledge
 <div align="left">
 <img src = "https://img.shields.io/badge/shell_script-000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=green1" >
 <img src = "https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffff00" >
@@ -23,7 +25,6 @@ Cyber Security / Penetration Tester | Tryhackme top 2%
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
  </div>
 <div align="left">
-  
 </div>
 <div align="left">
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
@@ -37,7 +38,7 @@ Cyber Security / Penetration Tester | Tryhackme top 2%
  </div>
 <br/><br/>
 
-## Socials
+## Social Media
 &emsp; 
 [![GithubIcon.](https://github.com/MaxBadarne/MaxBadarne/blob/main/Icons/icons8-github-100.png)](https://github.com/MaxBadarne)
 &emsp; 
