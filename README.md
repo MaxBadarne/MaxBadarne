@@ -3,6 +3,17 @@
 
 ## Max Badarne
 Cyber Security / Penetration Tester | Tryhackme top 2%
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/captainMax.png" alt="TryHackMe">
+<br/><br/>
+<img src = "https://img.shields.io/badge/shell_script-000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=green1" >
+<img src = "https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffff00" >
+<img src = "https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white" >
+<br/><br/>
+ 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
+
 <br/><br/>
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
 <img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic' />
