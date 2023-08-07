@@ -4,14 +4,16 @@
 ## Max Badarne
 Cyber Security / Penetration Tester | Tryhackme top 2%
 
-<img align="left" src="https://github.com/MaxBadarne/MaxBadarne/blob/main/Icons/captainMax.png" alt="TryHackMe">
 
 - Currently Doing An Ethical hacking/ Cyber Security Course at [HackerU](https://www.hackeru.co.il/) [ [Syllabus] ](https://drive.google.com/file/d/1-rLELLbkqYddhhVNebJFyVSuuZgkApOl/view?usp=sharing)
 - Currently Solving Tryhackme Challenges
 
-<br><br/>
+
+&emsp;&emsp; &emsp; &emsp; &emsp; <img src="https://github.com/MaxBadarne/MaxBadarne/blob/main/Icons/captainMax.png" alt="TryHackMe">
+<div align="left">
 <img src = "https://img.shields.io/badge/shell_script-000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=green1" >
 <img src = "https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffff00" >
+ </div>
 <div align="left">
  
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
