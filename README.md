@@ -1,6 +1,5 @@
 # Hello!
 <div align="left">You are the <img src="https://profile-counter.glitch.me/MaxBadarne/count.svg">th visitor.</div>
-<br/><br/> 
 
 ## Max Badarne
 Cyber Security / Penetration Tester | Tryhackme top 2%
