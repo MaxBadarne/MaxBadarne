@@ -10,6 +10,8 @@ Cyber Security / Penetration Tester | Tryhackme top 2%
 - Currently Solving Tryhackme Challenges
 
 <br><br/>
+<img src = "https://img.shields.io/badge/shell_script-000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=green1" >
+<img src = "https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffff00" >
 <div align="left">
  
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
@@ -17,8 +19,6 @@ Cyber Security / Penetration Tester | Tryhackme top 2%
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
-<img src = "https://img.shields.io/badge/shell_script-000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=green1" >
-  <img src = "https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffff00" >
  </div>
 <div align="left">
   
