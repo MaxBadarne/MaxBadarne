@@ -6,8 +6,8 @@ Cyber Security / Penetration Tester | Tryhackme top 2%
 
 <br/><br/>
 [Personal Website](https://maxbd.de/)
-![LinkedInIcon.](/icons/icons8-linkedin.svg)
-[LinkedIn Prodile](https://www.linkedin.com/in/max-badarne-232081194/)
+
+[![LinkedInIcon.](https://github.com/MaxBadarne/MaxBadarne/blob/main/Icons/icons8-linkedin.svg)](https://www.linkedin.com/in/max-badarne-232081194/)
 
 <br/><br/>
 
