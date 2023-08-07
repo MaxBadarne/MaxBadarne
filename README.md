@@ -4,12 +4,12 @@
 ## Max Badarne
 Cyber Security / Penetration Tester | Tryhackme top 2%
 
-
-- Currently Doing An Ethical hacking/ Cyber Security Course at [HackerU](https://www.hackeru.co.il/) [ [Syllabus] ](https://drive.google.com/file/d/1-rLELLbkqYddhhVNebJFyVSuuZgkApOl/view?usp=sharing)
-- Currently Solving Tryhackme Challenges
+Currently :-
+- Doing An Ethical hacking/ Cyber Security Course at [HackerU](https://www.hackeru.co.il/) [ [Syllabus] ](https://drive.google.com/file/d/1-rLELLbkqYddhhVNebJFyVSuuZgkApOl/view?usp=sharing)
+- Solving Tryhackme Challenges
   
 &emsp;&emsp; &emsp; <img src="https://github.com/MaxBadarne/MaxBadarne/blob/main/Icons/captainMax.png" alt="TryHackMe">
-- Currently participating in CTF Tournaments 
+- participating in CTF Tournaments 
 
 <br/><br/>
 ### Application Knowledge
