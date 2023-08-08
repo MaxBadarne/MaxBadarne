@@ -9,7 +9,7 @@ Cyber Security / Penetration Tester | Tryhackme top 2%
 
 - Solving Tryhackme Challenges
 
-<a href="https://tryhackme.com/p/captainMax" rel="nofollow">
+<a href="https://tryhackme.com/p/captainMax" target="blank" rel="nofollow">
 &emsp; <img src="https://github.com/MaxBadarne/MaxBadarne/blob/main/Icons/captainMax.png" alt="TryHackMe">
 </a>
 
