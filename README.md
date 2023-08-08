@@ -9,7 +9,7 @@ Cyber Security / Penetration Tester | Tryhackme top 2%
 
 - Solving Tryhackme Challenges
 
-<a href="https://tryhackme.com/p/captainMax" target="blank" rel="nofollow">
+<a href="https://tryhackme.com/p/captainMax" target="_blank" rel="nofollow">
 &emsp; <img src="https://github.com/MaxBadarne/MaxBadarne/blob/main/Icons/captainMax.png" alt="TryHackMe">
 </a>
 
@@ -66,13 +66,13 @@ Cyber Security / Penetration Tester | Tryhackme top 2%
  </div>
 
 ## Social Media
-<a href="https://github.com/MaxBadarne" rel="nofollow">
+<a href="https://github.com/MaxBadarne" target="_blank" rel="nofollow">
   <img src="https://github.com/MaxBadarne/MaxBadarne/blob/main/Icons/icons8-github-100.png" alt="html5" width="100" height="100" style="max-width: 100%;">
 </a>
-<a href="https://www.linkedin.com/in/max-badarne-232081194/" rel="nofollow">
+<a href="https://www.linkedin.com/in/max-badarne-232081194/" target="_blank" rel="nofollow">
   <img src="https://github.com/MaxBadarne/MaxBadarne/blob/main/Icons/icons8-linkedin.svg" alt="html5" width="100" height="100" style="max-width: 100%;">
 </a>
-<a href="https://twitter.com/MaxBadarne" rel="nofollow">
+<a href="https://twitter.com/MaxBadarne" target="_blank" rel="nofollow">
   <img src="https://github.com/MaxBadarne/MaxBadarne/blob/main/Icons/social-twitter-icon_34350.png" alt="html5" width="100" height="100" style="max-width: 100%;">
 </a>
 
