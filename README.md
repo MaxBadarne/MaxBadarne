@@ -37,7 +37,7 @@ Cyber Security / Penetration Tester | Tryhackme top 2%
    </div>
 
 [Full Syllabus](https://drive.google.com/file/d/1-rLELLbkqYddhhVNebJFyVSuuZgkApOl/view?usp=sharing)
-- participating in CTF Tournaments 
+- Participating in CTF Tournaments 
 
 ### Application Knowledge
 <div align="left">
