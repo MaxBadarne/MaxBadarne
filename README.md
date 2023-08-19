@@ -10,7 +10,7 @@ Cyber Security / Penetration Tester | Tryhackme top 1%
 - Solving Tryhackme Challenges
 
 <a href="http://tryhackme.com/p/captainMax" target="_blank" rel="nofollow">
- &emsp; <img src="https://tryhackme-badges.s3.amazonaws.com/captainMax.png" alt="TryHackMe">
+ &emsp; <img src="http://tryhackme-badges.s3.amazonaws.com/captainMax.png" alt="TryHackMe">
 </a>
 
 - Doing An Ethical hacking/ Cyber Security Course at [HackerU](https://www.hackeru.co.il/)
